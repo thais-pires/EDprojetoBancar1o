@@ -1,7 +1,7 @@
-## Tenha piedade
+# Tenha piedade
 
 
-###Estrutura / Funcionalidades:
+### Estrutura / Funcionalidades:
 * :a: Primeiro Menu
   * :one: Logar-se com o CPF
     * :b: Segundo Menu 
