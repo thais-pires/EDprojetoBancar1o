@@ -1,4 +1,4 @@
-<h2 align="center">Tenha piedade</h3>
+<h2 align="center">Tenha piedade</h2>
 <h5 align="center">by Thaís & Charmeny</h5>
 
 ### Estrutura / Funcionalidades:
