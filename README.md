@@ -21,6 +21,7 @@ by Thaís & Charmeny
   * Sair
 
 Colored = Terminal colorido
+
 Padrão = Terminal sem personalização/cor
 
 :a: :b: Menus
