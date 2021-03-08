@@ -1,5 +1,5 @@
 # Tenha piedade
-
+by Thaís & Charmeny
 
 ### Estrutura / Funcionalidades:
 * :a: Primeiro Menu
