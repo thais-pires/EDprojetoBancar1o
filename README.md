@@ -20,6 +20,9 @@ by Thaís & Charmeny
       * Exibe o número da conta bancária recém criada
   * Sair
 
+Colored = Terminal colorido
+Padrão = Terminal sem personalização/cor
+
 :a: :b: Menus
 
 :one: :two: Métodos/funcionalidades extras
