@@ -22,7 +22,7 @@ by Thaís & Charmeny
 
 
 
-
+### Legenda:
 Colored = Terminal colorido
 
 Padrão = Terminal sem personalização/cor
